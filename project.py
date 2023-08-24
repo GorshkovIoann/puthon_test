@@ -1,1 +1,1 @@
-print("fgfgek")
+print("fgf")
